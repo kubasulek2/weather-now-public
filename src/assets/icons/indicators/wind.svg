@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 493.36 493.36" style="enable-background:new 0 0 493.36 493.36;" xml:space="preserve" width="512px" height="512px" class=""><g><g>
+	<polygon style="fill:#FBC02D" points="379.152,184.222 408.153,85.207 309.137,114.208 333.89,159.47  " data-original="#FFCD00" class="active-path" data-old_color="#FFCD00"/>
+	<polygon style="fill:#FBC02D" points="184.222,114.208 85.207,85.207 114.208,184.222 159.47,159.47  " data-original="#FFDA44" class="" data-old_color="#FFDA44"/>
+	<polygon style="fill:#FBC02D" points="114.208,309.137 85.207,408.153 184.222,379.152 159.47,333.89  " data-original="#FFDA44" class="" data-old_color="#FFDA44"/>
+	<polygon style="fill:#FBC02D" points="379.152,309.137 333.89,333.89 309.137,379.152 408.153,408.153  " data-original="#FFCD00" class="active-path" data-old_color="#FFCD00"/>
+	<path style="fill:#03A9F4" d="M379.152,309.137L493.36,246.68l-114.208-62.458L333.89,159.47l-24.753-45.262L246.68,0v216.68   c16.542,0,30,13.458,30,30s-13.458,30-30,30v216.68l62.457-114.208l24.753-45.262L379.152,309.137z" data-original="#004FAC" class="" data-old_color="#004FAC"/>
+	<path style="fill:#81D4FA" d="M216.68,246.68c0-16.542,13.458-30,30-30V0l-62.458,114.208L159.47,159.47l-45.262,24.752L0,246.68   l114.208,62.458l45.262,24.752l24.752,45.262L246.68,493.36V276.68C230.138,276.68,216.68,263.222,216.68,246.68z" data-original="#006DF0" class="" data-old_color="#006DF0"/>
+	<path style="fill:#FFFFFF" d="M216.68,246.68c0,16.542,13.458,30,30,30s30-13.458,30-30s-13.458-30-30-30   S216.68,230.138,216.68,246.68z" data-original="#FFFFFF" class=""/>
+</g></g> </svg>
